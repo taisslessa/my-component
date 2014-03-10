@@ -1,0 +1,8 @@
+{
+	"ceci-my-component": "my-component",
+	"ceci-my-component/description": "Listens for a message and counts",
+	"ceci-my-component/attributes/unit/label": "Unit",
+	"ceci-my-component/attributes/unit/description": "Name for items which are being counted.",
+	"ceci-my-component/attributes/increment/label": "Increment By",
+	"ceci-my-component/attributes/increment/description": "Count up or down with this number."
+}
