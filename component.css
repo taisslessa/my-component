@@ -13,7 +13,7 @@
 
 :host .counter .count-wrapper {
   display: inline-block;
-  background: white;
+  background: black;
   padding: 5px 12px;
   border-radius: 5px;
   -webkit-border-radius: 5px;
